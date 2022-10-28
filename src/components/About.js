@@ -11,13 +11,13 @@ const About = () => {
             About me
           </p>
           <p className="text-[#EAEAEA] py-3 text-2xl">
-            Hey, I'm Peter Gomez and i use PJ as my nickname. I am from San
+            Hey, I'm Peter Gomez and I use PJ as my nickname. I am from San
             Fernando Pampanga, Philippines, and currently seeking an entry-level
             position with a Company to use my skills in coding, troubleshooting
-            complex problems, assist in the timely completion of projects, and
-            to expand my knowledge in coding. I started coding last March
-            2022,it became a hobby for me. i Find it really interesting and i
-            know i have a lot more to learn.
+            complex problems, assisting in the timely completion of projects,
+            and expanding my knowledge in coding. I started coding last March
+            2022, it became a hobby for me. I find it interesting and I know i
+            have a lot more to learn.
           </p>
           <a
             href="Peter_John_Gomez-Junior Frontend Developer Resume.pdf"

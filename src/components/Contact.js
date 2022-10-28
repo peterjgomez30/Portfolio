@@ -16,7 +16,8 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-[#EAEAEA] py-4">
-            Submit the form below or send me an email at - peterjgomez@gmail.com
+            Submit the form below or send me an email at -
+            peterjgomez30@gmail.com
           </p>
         </div>
         <input
@@ -24,18 +25,21 @@ const Contact = () => {
           type="text"
           placeholder="Name"
           name="name"
+          required
         ></input>
         <input
           className="bg-[#ccd6f6] my-4 p-2 "
           type="email"
           placeholder="Email"
           name="email"
+          required
         ></input>
         <textarea
           className="bg-[#ccd6f6] p-2"
           name="message"
           rows="10"
           placeHolder="Message"
+          required
         ></textarea>
         <button className="text-white border-2 hover:bg-[#47B5FF] hover:border-[#47B5FF] px-4 py-3 my-8 mx-auto flex items-center">
           Submit form
